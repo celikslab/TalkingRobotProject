@@ -29,8 +29,22 @@
 
 ## Devre Şeması
 
-## Kodlar
+<p align="center">
+  <img width="518" height="345" src="https://github.com/celikslab/TalkingRobotHead/blob/main/%C4%B0mages/CircuitSchematic.png">
+</p>
 
-## Kutu Tasarımı(3D Baskı)
+
+
+## 3D Baskı
+
+<p align="center">
+  <img width="533" height="287" src="https://github.com/celikslab/TalkingRobotHead/blob/main/%C4%B0mages/cura.PNG">
+</p>
 
 ## Montaj
+
+<p align="center">
+  <img width="615" height="310" src="https://github.com/celikslab/TalkingRobotHead/blob/main/%C4%B0mages/design.png">
+</p>
+
+## Kodlar
