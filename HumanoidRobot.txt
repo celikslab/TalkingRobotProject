@@ -1,3 +1,4 @@
+
 port = "COM5" //port bilgisinin 
 arduino = Runtime.start("arduino","Arduino")
 arduino.connect(port)
@@ -28,10 +29,10 @@ boyunx = Runtime.createAndStart("boyunx","Servo")
 cene = Runtime.createAndStart("cene","Servo")
 boyuny = Runtime.createAndStart("boyuny","Servo")
 gozy.attach(arduino, 5)
-gozx.attach(arduino, 12)
-boyuny.attach(arduino, 10)
+gozx.attach(arduino, 6)
+boyuny.attach(arduino, 9)
 cene.attach(arduino, 11)
-boyunx.attach(arduino,9)
+boyunx.attach(arduino,10)
 boyuny.map(0,180,30,150)
 boyunx.map(0,180,40,130)
 cene.map(0,180,25,80)
