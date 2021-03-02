@@ -55,6 +55,8 @@ Baskı Ayarları :
 
 ## Montaj
 
+Bu robot prototipi kafa, boyun, stand olarak 3 ayrı kısımdan oluşmaktadır. Montaja ilk olarak kafa kısmının iskelet yapısı birleştirilerek küçük(sg90) ve büyük(mg996) servo motorlar yuvalarına montajlandı. Ardından gözlerin yataklara montajı yapıldı. Küçük servo motorlar(sg90), gözlere ince bakır tel ile bağlandı çünkü bakır teller bir şaft görevi görerek servo motorlar dönerken gözleri x ve y ekseninde hareketini gerçekleştirir. Burada unutulmaması gereken şey ise bakır teller(şaftlar), servolara bağlanacak kısımları servoların ve eksenin kalibrasyonu yapıldıktan sonra takılmalıdır! Boyun kısmına gelirsek kafayı y ekseninde hareket ettirecek parçalar eklem yerine rulman yerleştirilerek kafaya bağlandı ve kafada bulunan y ekseni hareketini sağlayacak servoya şaft takıldı. Daha alt kısımda x ekseni hareketinin sağlanması için tutucuya servo motor sabitlenerek tutucunun merkezine rulman yerleştirildi. Sonra çene takıldı ve ilgili servoya şaft ile bağlantısı yapıldı. Yüzü oluşturan plakalar takıldı. Tutucu kısımda kutu şeklindeki standa montajlandı. Kablolar bir kablo kanalından geçirilerek standın içerisine ulaştırıldı. Standın içerisine Arduino ,regülatör ,amfi kartları bağlantıları yapılarak yerleştirildi ve standın kapağı kapatıldı.
+
 <p align="center">
   <img width="615" height="310" src="https://github.com/celikslab/TalkingRobotHead/blob/main/%C4%B0mages/design.png">
 </p>
