@@ -37,9 +37,21 @@
 
 ## 3D Baskı
 
+3D yazıcılar, eklemeli olarak yani malzemeyi katman katman ekleyerek istenilen parçayı oluştururlar. Bu yöntem, geleneksel imalat yöntemlerine karşın birçok avantaj sunsada, şu anda, 3D yazıcıların geleneksel imalat yöntemlerinin çoğunun yerini doldurması pek olası değildir. Ancak 3D yazıcıların işlevsel bir malzeme ile yüksek doğruluk ve hızla kullanılabilecekleri birçok uygulama vardır. Bu projede de kolay ve hızlı üretim, düşük maliyet ve uygunluk(karmaşık yüzey üretimi, malzeme hafifliği) gibi birçok avantajından ötürü 3d yazıcı ile üretim tercih edilmiştir.
+
 <p align="center">
   <img width="533" height="287" src="https://github.com/celikslab/TalkingRobotHead/blob/main/%C4%B0mages/cura.PNG">
 </p>
+
+Çizim dosyalarına(stl) [buradan](https://github.com/celikslab/TalkingRobotHead/tree/main/stl) ulaşabilirsiniz.
+
+Baskı Ayarları :
+
+<li>İnfill: %30</li>
+<li>Resolution: 0.2</li>
+<li>Speed: 60 mm/s</li>
+<li>Support: Yes</li>
+<li>Filament material: Pla+ Purple-White</li>
 
 ## Montaj
 
