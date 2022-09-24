@@ -63,6 +63,6 @@ Bu robot prototipi kafa, boyun, stand olarak 3 ayrı kısımdan oluşmaktadır. 
 
 ## Kodlar
 
-Kodların tamamına [buradan](https://github.com/celikslab/TalkingRobotHead/blob/main/HumanoidRobot.txt) ulaşabilirsiniz.
+Kodların demosuna [buradan](https://github.com/celikslab/TalkingRobotHead/blob/main/HumanoidRobot.txt) ulaşabilirsiniz.
 
 Myrobotlab, robotik çalışmalar için kullanılan python dili ile kodlama imkanı sunan ayrıca Servo, Servo driver, Mpu6050 gibi birçok arduino ve OpenCV, MaryTTS gib python kütüphanelerinin içinde yer aldığı bilgisayar uygulamasıdır. Bu çalışmanın donanım kısmında hareketleri sağlayacak olan elemanlar arduino, servo motor ve servo motor sürücü, yazılım kısmında ise konuşmanın algılanmasını sağlayan webkit speech recognition ve konuşma sentezi için marytts servisleri kullanılacağı için bu program tercih edilmiştir.
